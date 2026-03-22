@@ -12,7 +12,7 @@ export function Header(){
         <div className="ps-5 h-100 d-flex justify-content-center flex-column">
             <h1 className="text-light display-4 fw-bold py-2">Start something that matters</h1>
             <p className="t-color fs-5">Stop wasting valuable time with projects that just isn't you.</p>
-            <button className="btn col-6 col-md-2  py-2 btn-hov">Learn more and start today</button>
+            <button className="btn col-10 col-md-2  py-2 btn-hov">Learn more and start today</button>
         </div>
         <div className="ps-5 header-icons d-flex gap-2">
             <FaFacebook className="fs-2 icons-hov cursor-pointer transition pb-2"/>

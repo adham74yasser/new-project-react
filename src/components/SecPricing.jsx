@@ -1,7 +1,7 @@
 import React from "react";
 
 export function Pricing(){
-    return <section className="p-5 bg-dark d-flex justify-content-center align-items-center flex-column">
+    return <section className="p-2 p-md-5 bg-dark d-flex justify-content-center align-items-center flex-column">
         <h2 className="text-center text-light pt-5">PRICING</h2>
         <p className="text-center text-light pb-5">Choose a pricing plan that fits your needs.</p>
         <div className="container row g-4 ">
