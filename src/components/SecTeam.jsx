@@ -9,8 +9,8 @@ export function Team(){
         <div className="">
             <h2 className="text-center pb-3">THE TEAM</h2>
             <p className="text-center">The ones who runs this company</p>
-            <div className="container row g-2 my-5">
-                <div className="box col-12 col-md-4 col-lg-3">
+            <div className="container row g-2 d-flex justify-content-center my-5">
+                <div className="box col-8 col-md-4 col-lg-3">
                     <div className="card overflow-hidden ">
                         <img className="filter" src={img1} alt="" />
                         <div className="body-card d-flex flex-column gap-2 px-2 py-4 ">
@@ -21,7 +21,7 @@ export function Team(){
                         </div>
                     </div>
                 </div>
-                <div className="box col-12 col-md-4 col-lg-3">
+                <div className="box col-8 col-md-4 col-lg-3">
                     <div className="card overflow-hidden ">
                         <img className="filter" src={img2} alt="" />
                         <div className="body-card d-flex flex-column gap-2 px-2 py-4 ">
@@ -32,7 +32,7 @@ export function Team(){
                         </div>
                     </div>
                 </div>
-                <div className="box col-12 col-md-4 col-lg-3">
+                <div className="box col-8 col-md-4 col-lg-3">
                     <div className="card overflow-hidden ">
                         <img className="filter" src={img3} alt="" />
                         <div className="body-card d-flex flex-column gap-2 px-2 py-4 ">
@@ -43,7 +43,7 @@ export function Team(){
                         </div>
                     </div>
                 </div>
-                <div className="box col-12 col-md-4 col-lg-3">
+                <div className="box col-8 col-md-4 col-lg-3">
                     <div className="card overflow-hidden ">
                         <img className="filter" src={img4} alt="" />
                         <div className="body-card d-flex flex-column gap-2 px-2 py-4 ">
